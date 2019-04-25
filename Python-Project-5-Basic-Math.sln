@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python-Project-5-Basic-Math", "Python-Project-5-Basic-Math\Python-Project-5-Basic-Math.pyproj", "{DCB330A7-4099-45F9-ADFE-0A9ABAA107FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB330A7-4099-45F9-ADFE-0A9ABAA107FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB330A7-4099-45F9-ADFE-0A9ABAA107FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE91F28A-83AF-44A3-9DD0-046FE2BE679F}
+	EndGlobalSection
+EndGlobal
